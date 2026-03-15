@@ -1,0 +1,7 @@
+{
+  "camera_index": 0,
+  "camera_area_name": "Khu vực A",
+  "confidence_threshold": 0.25,
+  "violation_throttle_seconds": 0.8,
+  "model_path": "D:\\book\\HAU\\Contruction Site Safety\\Contruction\\best.pt"
+}
