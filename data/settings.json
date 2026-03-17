@@ -3,5 +3,5 @@
   "camera_area_name": "Khu vực A",
   "confidence_threshold": 0.25,
   "violation_throttle_seconds": 0.8,
-  "model_path": "D:\\book\\HAU\\Contruction Site Safety\\Contruction\\best.pt"
+  "model_path": "D:\\FPTU\\Ki7_FPT\\DAT301m\\Contruction-Site-Safety\\helmet_best.pt"
 }
